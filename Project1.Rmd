@@ -1,7 +1,7 @@
 ---
-Title: "Reproducible Research Project 1"
-Author: "Sarthak Kawatra"
-Date: "24/09/2020"
+title: "Reproducible Research Project 1"
+author: "Sarthak Kawatra"
+date: "24/09/2020"
 output:
   md_document:
     variant: markdown_github
